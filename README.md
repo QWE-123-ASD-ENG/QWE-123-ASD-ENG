@@ -1,4 +1,4 @@
-[Untitled-1.md](https://github.com/user-attachments/files/34272354/Untitled-1.md)
+[Uploading Untitled-1.md…]()
 # 加入白嫖社的第一天
 
 ******
@@ -15,6 +15,27 @@
 
 ## 其实吧我刚开始用 MarkText
 
-**我还用不明白** _真的·_
+**我还用不明白** _真的·
+
+******
+
+* [ ] 这里主要是展示我会用
+
+  * 还有这个(无序表)
+1. 顺序表
+
+2. ..............
+
+```c++
+void dfs (int u) {
+	cout << u << ' ';
+	s[u] = true;
+	for (int v:edge[u]) {
+		if (!s[v]) {
+			dfs[v];
+		}
+	}
+}
+```
 
 
